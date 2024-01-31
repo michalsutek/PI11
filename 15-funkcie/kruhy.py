@@ -20,6 +20,6 @@ def kruhy_stvorec(x, y, pocet, r, farba):
         y = y + r * 2
 
 
-kruhy_stvorec(50, 50, 10, 10, "red")
+kruhy_stvorec(50, 50, 5, 20, "blue")
 
 canvas.mainloop()
